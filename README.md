@@ -6,6 +6,8 @@ The index.html has has three buttons.  One to fetch image that has been pushed, 
 
 You should open the developers tools to see the effect of h2push and SW. 
 
+And USE YOUR OWN Key and Cert...
+
 #TO-DOs
 
 * In the current code once the demo is run all the resources are stored in the SW cache hence to repeat  the demo you need to uninstall the SW and  clear browsing data  
